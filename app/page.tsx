@@ -9,6 +9,7 @@ const projects = [
       "Includes tensor-level implementations of RMSNorm, RoPE, grouped-query causal attention and SwiGLU; an in-house byte-fallback BPE tokenizer; custom optimization; KV-cache inference; SFT and DPO; safety guardrails; deterministic BM25 RAG; persistent memory; sandboxed tools; ReAct agents; and a local FastAPI serving layer with SSE streaming.",
     technologies: ["Python", "PyTorch", "FastAPI", "AI/ML", "RAG", "Agents"],
     links: [
+      { label: "Live Demo", href: "https://vishwakarma-ai-frontend.onrender.com" },
       { label: "GitHub", href: "https://github.com/ajaymishra14/vishwakarma_ai" },
       { label: "Frontend", href: "https://github.com/ajaymishra14/vishwakarma-ai-frontend" },
     ],
